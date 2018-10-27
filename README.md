@@ -49,7 +49,7 @@ b)
 ![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_2b.png)
 
 c)
-![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_2b.png)
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_2c.png)
 
 
 
