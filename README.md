@@ -24,13 +24,16 @@ You can assume that number of people in station can not exceed 200 and discount 
 
 For part (a), plot optimal value function at time 0 versus number of customers waiting.
 
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_1a.png)
+
 For part (b), plot optimal value function versus number of customers waiting.
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_1b.png)
 
 For part (c), plot optimal policy versus number of customers waiting.
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_1c.png)
 
 2) Now consider the multiclass problem in which we have different types of customers. Assume that there
 are 5 types of customers with c h = {1, 1.5, 2, 2.5, 3} and each type can have maximum 100 people of each
 class waiting for shuttle and A t for each class follows same distribution. Capacity of the shuttle is K = 30.
 Try to repeat a), b) and c) from problem 1.
 
-![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_1a.png)
