@@ -33,4 +33,4 @@ are 5 types of customers with c h = {1, 1.5, 2, 2.5, 3} and each type can have m
 class waiting for shuttle and A t for each class follows same distribution. Capacity of the shuttle is K = 30.
 Try to repeat a), b) and c) from problem 1.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_1a.png)
