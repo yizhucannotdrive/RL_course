@@ -32,6 +32,10 @@ For part (b), plot optimal value function versus number of customers waiting.
 For part (c), plot optimal policy versus number of customers waiting.
 ![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_1c.png)
 
+The plots above shows the values function vs initial state(# of customers in system) using three methods. 
+Moreover, All three derive same optimal policy that we dispatch when # of customer s waiting >=13.
+
+
 2) Now consider the multiclass problem in which we have different types of customers. Assume that there
 are 5 types of customers with c h = {1, 1.5, 2, 2.5, 3} and each type can have maximum 100 people of each
 class waiting for shuttle and A t for each class follows same distribution. Capacity of the shuttle is K = 30.
