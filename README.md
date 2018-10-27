@@ -37,3 +37,13 @@ are 5 types of customers with c h = {1, 1.5, 2, 2.5, 3} and each type can have m
 class waiting for shuttle and A t for each class follows same distribution. Capacity of the shuttle is K = 30.
 Try to repeat a), b) and c) from problem 1.
 
+In this case, computation is intensive. So we limit number of available customers to 2 for illustration purpose. Moreover, we visulize value function by iterating first dimension and fixing the rest. In specific, s is in form of [s,1,1,1,1].
+
+a)
+
+b)
+
+c)
+
+
+
