@@ -33,7 +33,7 @@ For part (c), plot optimal policy versus number of customers waiting.
 ![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_1c.png)
 
 The plots above shows the values function vs initial state(# of customers in system) using three methods. 
-Moreover, All three derive same optimal policy that we dispatch when # of customer s waiting >=13.
+Moreover, All three derive same optimal policy that ** we dispatch when # of customer s waiting >=13 **.
 
 
 2) Now consider the multiclass problem in which we have different types of customers. Assume that there
