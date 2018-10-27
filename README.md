@@ -24,5 +24,4 @@ For part (c), plot optimal policy versus number of customers waiting.
 are 5 types of customers with c h = {1, 1.5, 2, 2.5, 3} and each type can have maximum 100 people of each
 class waiting for shuttle and A t for each class follows same distribution. Capacity of the shuttle is K = 30.
 Try to repeat a), b) and c) from problem 1.
-
-file:///home/yizhu/Desktop/898092865.jpg
+![alt text](http://url/to/img.png)
