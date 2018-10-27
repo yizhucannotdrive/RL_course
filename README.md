@@ -44,10 +44,12 @@ Try to repeat a), b) and c) from problem 1.
 In this case, computation is intensive. So we limit number of available customers to 2 for illustration purpose. Moreover, we visulize value function by iterating first dimension and fixing the rest. In specific, s is in form of [s,1,1,1,1].
 
 a)
-
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_2a.png)
 b)
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_2b.png)
 
 c)
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/HW1_2b.png)
 
 
 
