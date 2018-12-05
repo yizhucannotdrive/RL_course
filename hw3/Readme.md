@@ -12,4 +12,4 @@ The result of MsPacman is good.
 
 The graph below is the peformance of MsPacman0-v0.
 ![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/hw3/MsPacman1.png)
-![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/hw3/MsPacman2.png)
+![alt text](https://github.com/yizhucannotdrive/RL_course/blob/master/hw3/McPacman2.png)
